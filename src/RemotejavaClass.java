@@ -1,3 +1,3 @@
- public static void main(String[] args) {
+public class RemotejavaClass  {
         //This will also have 
     }
